@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560181806966.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "73EADBF6",
+    "lastKnownWriteTime" : 1560179489,
+    "last_content_update" : 1560179489,
+    "path" : "~/edx/movie_lens_project/movie_lens_markdown.Rmd",
+    "project_path" : "movie_lens_markdown.Rmd",
+    "properties" : {
+        "cursorPosition" : "13,59",
+        "scrollLine" : "18"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
