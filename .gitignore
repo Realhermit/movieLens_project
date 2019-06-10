@@ -1,0 +1,6 @@
+# Ignore RData files
+processed_work_space.RData
+*.RData
+
+#Ignore Ml folder
+/ml-10M100K/

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560179797238.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "91056FA3",
+    "lastKnownWriteTime" : 1560181497,
+    "last_content_update" : 1560181497,
+    "path" : "~/edx/movie_lens_project/final_code_file.R",
+    "project_path" : "final_code_file.R",
+    "properties" : {
+        "cursorPosition" : "132,30",
+        "scrollLine" : "121"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
